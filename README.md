@@ -17,5 +17,8 @@ work on flutter APP using firebase and API
   ## Day 5
   make encryption and decryption code with python and Tkinter
       <a href="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/encryption%2Cpy" target="_blank">link of code</a>
+  ## Day 6
+  solve 2 problems on leetcode 75 
+ <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/leetcode" target="_blank">link of repo</a>
 
 
