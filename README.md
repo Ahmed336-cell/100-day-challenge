@@ -26,8 +26,8 @@ work on flutter APP using firebase and API
   <a href="https://ahmed336-cell.github.io/ahmedmaherelmo.github.io/" target="_blank">link of Portfolio</a> <br>
    <a href="https://github.com/Ahmed336-cell/ahmedmaherelmo.github.io" target="_blank">link of repo</a>
 
-   ##Day 8
-    solve 2 problems on leetcode 75 <br>
- <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/leetcode" target="_blank">link of repo</a>
+   ## Day 8
+   solve 2 problems on leetcode 75 <br>
+   <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/leetcode" target="_blank">link of repo</a>
 
 
