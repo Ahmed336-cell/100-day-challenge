@@ -30,4 +30,8 @@ work on flutter APP using firebase and API
    solve 2 problems on leetcode 75 <br>
    <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/leetcode" target="_blank">link of repo</a>
 
+   ## Day 9
+   make Spelling Checker app with python
+   <a href="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/Spelling%20Checker.py" target="_blank">link of repo</a>
+
 
