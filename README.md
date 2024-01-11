@@ -39,5 +39,9 @@ work on flutter APP using firebase and API
    ## Day 11
    solve 1 problem on leetcode (easy problems) <br>
    <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/leetcode" target="_blank">link of repo</a>
+  ## Day 12
+  starting with jetpack compose android app <br> making a calculator
+  <br>
+     <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/Calculator%20App/Calculator" target="_blank">link of repo</a>
 
    
