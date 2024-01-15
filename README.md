@@ -55,6 +55,20 @@ work on flutter APP using firebase and API
 <h3>talking about</h3>
 The first chapter of "Grokking Algorithms" introduces the reader to the fundamental concept of algorithms and their importance in solving problems. It emphasizes the ubiquitous nature of algorithms in our daily lives, from simple tasks to complex processes. The chapter also provides an overview of what algorithms are and how they differ from computer programs. Additionally, it introduces the concept of Big O notation, a way to analyze and compare the efficiency of algorithms in terms of their time and space complexity. Overall, the first chapter sets the stage for understanding the role and significance of algorithms in computer science and problem-solving.
 
+## Day 16
+Make transparent listview app with flutter that camera work as a background for listview <br>
+ <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/trasnparent_listview" target="_blank">link of repo</a> <br>
+
+
+
+https://github.com/Ahmed336-cell/100-day-challenge/assets/65620946/63c4c2f8-996d-4006-bf3d-6565573be5b5
+
+
+
+
+ 
+ 
+
 
 
 
