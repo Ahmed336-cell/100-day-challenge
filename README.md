@@ -50,4 +50,13 @@ work on flutter APP using firebase and API
   ## Day 14
   start Prodigy infotech internship with first task ( calculator app ) <br>
        <a href="https://github.com/Ahmed336-cell/PRODIGY_AD_01" target="_blank">link of repo</a> <br>
+## Day 15
+starting reading Grokking algorithms book and finished the first chapter <br>
+talking about <br>
+The first chapter of "Grokking Algorithms" introduces the reader to the fundamental concept of algorithms and their importance in solving problems. It emphasizes the ubiquitous nature of algorithms in our daily lives, from simple tasks to complex processes. The chapter also provides an overview of what algorithms are and how they differ from computer programs. Additionally, it introduces the concept of Big O notation, a way to analyze and compare the efficiency of algorithms in terms of their time and space complexity. Overall, the first chapter sets the stage for understanding the role and significance of algorithms in computer science and problem-solving.
+
+
+
+
+
 
