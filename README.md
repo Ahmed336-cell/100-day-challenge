@@ -70,9 +70,9 @@ Develop light bulb app with flutter that has different way to turn on/off flash 
 
 https://github.com/Ahmed336-cell/100-day-challenge/assets/65620946/f1b79a2c-a1a5-4f27-aecc-9a95ba58a0fe
 
-
-
- 
+##Day 18
+ second task Prodigy infotech internship ( Note app ) <br>
+       <a href="https://github.com/Ahmed336-cell/PRODIGY_AD_02" target="_blank">link of repo</a> <br>
  
 
 
