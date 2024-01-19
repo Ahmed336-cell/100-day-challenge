@@ -74,7 +74,13 @@ https://github.com/Ahmed336-cell/100-day-challenge/assets/65620946/f1b79a2c-a1a5
  second task Prodigy infotech internship ( Note app ) <br>
        <a href="https://github.com/Ahmed336-cell/PRODIGY_AD_02" target="_blank">link of repo</a> <br>
  
-
+## Day 19
+<h2>Reading chapter 2 from Grokking Algorithms Book</h2>
+<h3>Talking about</h3>
+In this chapter, the focus is on fundamental data structures and a basic sorting algorithm. Arrays and linked lists, two essential data structures, are introduced. Arrays, already touched upon in Chapter 1, are highlighted as crucial and frequently used throughout the book. However, the chapter also emphasizes that linked lists can be more advantageous in certain situations, and it aims to provide insights into the pros and cons of both structures, enabling readers to make informed choices for their algorithms.
+<br>
+The chapter further introduces the concept of sorting algorithms, starting with the explanation of selection sort. Sorting is essential for various algorithms, including binary search, which can only be performed on a sorted list of elements. While many programming languages come with built-in sorting algorithms, the chapter presents selection sort as a foundational sorting algorithm. Additionally, it sets the stage for understanding more advanced sorting algorithms like quicksort, which will be covered in the next chapter. The understanding of selection sort is positioned as a valuable precursor to grasping quicksort, contributing to a deeper comprehension of this important algorithm.
+<br>
 
 
 
