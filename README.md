@@ -84,5 +84,7 @@ The chapter further introduces the concept of sorting algorithms, starting with 
 
 
 
-
+## Day 20
+making calculator that (add,sub,div,mul) with assembly <br>
+<a href="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/calculator.asm" target="_blank">link of code</a> <br>
 
