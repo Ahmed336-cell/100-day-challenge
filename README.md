@@ -88,3 +88,7 @@ The chapter further introduces the concept of sorting algorithms, starting with 
 making calculator that (add,sub,div,mul) with assembly <br>
 <a href="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/calculator.asm" target="_blank">link of code</a> <br>
 
+## Day 21
+Making a timer app (start, pause, reset) display time in minutes, seconds, and milliseconds third project in the Prodigy Info internship <br>
+<a href="https://github.com/Ahmed336-cell/PRODIGY_AD_03" target="_blank">link of repo</a> <br>
+
