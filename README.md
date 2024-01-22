@@ -86,9 +86,15 @@ The chapter further introduces the concept of sorting algorithms, starting with 
 
 ## Day 20
 making calculator that (add,sub,div,mul) with assembly <br>
+
 <a href="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/calculator.asm" target="_blank">link of code</a> <br>
 
 ## Day 21
 Making a timer app (start, pause, reset) display time in minutes, seconds, and milliseconds third project in the Prodigy Info internship <br>
 <a href="https://github.com/Ahmed336-cell/PRODIGY_AD_03" target="_blank">link of repo</a> <br>
 
+
+## Day 22
+<h2Chapter 3 Grokking algorithms book</h2>
+<h3>talking about</h3>
+In this chapter, the focus is on recursion, a fundamental coding technique widely employed in various algorithms. Recursion serves as a crucial building block for comprehending subsequent chapters in the book. The chapter delves into the methodology of breaking down problems into two essential components: the base case and the recursive case. This approach lays the foundation for the divide-and-conquer strategy. The divide-and-conquer strategy employs the simplicity of this concept to effectively solve complex problems. Overall, the chapter serves as an introduction to recursion, highlighting its significance in algorithmic problem-solving and its role in preparing readers for more advanced strategies discussed later in the book.
