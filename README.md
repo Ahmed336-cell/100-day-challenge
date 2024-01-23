@@ -95,6 +95,9 @@ Making a timer app (start, pause, reset) display time in minutes, seconds, and m
 
 
 ## Day 22
-<h2Chapter 3 Grokking algorithms book</h2>
+<h2>Chapter 3 Grokking algorithms book</h2>
 <h3>talking about</h3>
 In this chapter, the focus is on recursion, a fundamental coding technique widely employed in various algorithms. Recursion serves as a crucial building block for comprehending subsequent chapters in the book. The chapter delves into the methodology of breaking down problems into two essential components: the base case and the recursive case. This approach lays the foundation for the divide-and-conquer strategy. The divide-and-conquer strategy employs the simplicity of this concept to effectively solve complex problems. Overall, the chapter serves as an introduction to recursion, highlighting its significance in algorithmic problem-solving and its role in preparing readers for more advanced strategies discussed later in the book.
+
+## Day 23
+starting learning Bloc state managment in Flutter
