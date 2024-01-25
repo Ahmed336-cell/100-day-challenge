@@ -106,3 +106,6 @@ starting learning Bloc state management in Flutter
 implementation of the BLoc state management concept
 <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/basketball_counter_app3" target="_blank">link of code</a> <br>
 
+
+## Day 25
+studied for my first flutter interview and answer most of questions of interview :)
