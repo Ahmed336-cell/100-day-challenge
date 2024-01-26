@@ -108,4 +108,9 @@ implementation of the BLoc state management concept
 
 
 ## Day 25
-studied for my first flutter interview and answer most of questions of interview :)
+studied for my first Flutter interview and answered most of the questions of the interview :)
+
+## Day 26
+make task after interview todo app <br>
+<a href="https://github.com/Ahmed336-cell/todo_app" target="_blank">link of repo</a> <br>
+
