@@ -114,3 +114,5 @@ studied for my first Flutter interview and answered most of the questions of the
 make task after interview todo app <br>
 <a href="https://github.com/Ahmed336-cell/todo_app" target="_blank">link of repo</a> <br>
 
+## Day 27
+continues studying Bloc in flutter 
