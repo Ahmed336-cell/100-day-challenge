@@ -106,3 +106,19 @@ starting learning Bloc state management in Flutter
 implementation of the BLoc state management concept
 <a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/basketball_counter_app3" target="_blank">link of code</a> <br>
 
+
+## Day 25
+studied for my first Flutter interview and answered most of the questions of the interview :)
+
+## Day 26
+make task after interview todo app <br>
+<a href="https://github.com/Ahmed336-cell/todo_app" target="_blank">link of repo</a> <br>
+
+## Day 27
+continues studying Bloc in Flutter 
+
+## Day 28
+Nothing just add to ReadME
+
+## Day 29
+Come back to study Bloc state management in Flutter with weather App
