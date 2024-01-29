@@ -121,4 +121,9 @@ continues studying Bloc in Flutter
 Nothing just add to ReadME
 
 ## Day 29
-Come back to study Bloc state management in Flutter with weather App
+Come back to study Bloc state management in Flutter with Weather App
+
+## Day 30
+finishing weather app using Bloc state management
+<a href="https://github.com/Ahmed336-cell/100-day-challenge/tree/main/weather_app" target="_blank">link of code</a> <br>
+
