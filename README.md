@@ -115,7 +115,10 @@ make task after interview todo app <br>
 <a href="https://github.com/Ahmed336-cell/todo_app" target="_blank">link of repo</a> <br>
 
 ## Day 27
-continues studying Bloc in flutter 
+continues studying Bloc in Flutter 
 
 ## Day 28
 Nothing just add to ReadME
+
+## Day 29
+Come back to study Bloc state management in Flutter with weather App
