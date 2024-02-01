@@ -118,7 +118,7 @@ make task after interview todo app <br>
 continues studying Bloc in Flutter 
 
 ## Day 28
-Nothing just add to ReadME
+Nothing add to ReadME
 
 ## Day 29
 Come back to study Bloc state management in Flutter with the Weather App
@@ -129,3 +129,8 @@ finishing weather app using Bloc state management
 
 ## Day 31
 finishing study Cubit and Bloc state management Flutter and start in Bookly app 
+
+## Day 32
+make splash screen and custom app bar in Bookly app <br>
+<a href="https://github.com/Ahmed336-cell/bookly_app" target="_blank">link of repo</a> <br>
+
