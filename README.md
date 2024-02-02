@@ -134,3 +134,5 @@ finishing study Cubit and Bloc state management Flutter and start in Bookly app
 make splash screen and custom app bar in Bookly app <br>
 <a href="https://github.com/Ahmed336-cell/bookly_app" target="_blank">link of repo</a> <br>
 
+## Day 33
+make custom list view item in bookly app
