@@ -136,3 +136,6 @@ make splash screen and custom app bar in Bookly app <br>
 
 ## Day 33
 make custom list view item in bookly app
+
+## Day 34
+make listview with list view custom item in Bookly app
