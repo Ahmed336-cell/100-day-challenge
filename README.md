@@ -135,7 +135,10 @@ make splash screen and custom app bar in Bookly app <br>
 <a href="https://github.com/Ahmed336-cell/bookly_app" target="_blank">link of repo</a> <br>
 
 ## Day 33
-make custom list view item in bookly app
+make custom list view item in Bookly app
 
 ## Day 34
-make listview with list view custom item in Bookly app
+make listview with list view custom item in the Bookly app
+
+## Day 35
+finishing custom list view and start to design best seller list view in bookly app
