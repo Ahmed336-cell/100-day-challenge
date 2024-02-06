@@ -145,3 +145,6 @@ finishing the custom list view and starting to design the best-seller list view 
 
 ## Day 36
 finishing best-seller item design in the Bookly app
+
+## Day 37
+finishing the home page and starting on Details book page in the Bookly app
