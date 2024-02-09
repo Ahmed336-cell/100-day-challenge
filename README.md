@@ -151,3 +151,9 @@ finishing the home page and starting on the Details book page in the Bookly app
 
 ## Day 38
 Finishing all UI of the Bookly App and then start in logic code
+
+## Day 39
+making API services files and starting using clean code in the Bookly app
+
+## Day 40
+cubit files are done in the Bookly app
