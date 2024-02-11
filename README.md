@@ -159,3 +159,7 @@ making API services files and starting using clean code in the Bookly app
 cubit files are done in the Bookly app
 
 ## Day 41
+start in first freelance app with flutter
+
+## Day 42
+finishing ui of authentication ( login , signup)
