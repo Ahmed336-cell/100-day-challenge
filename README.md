@@ -165,4 +165,7 @@ start in the first freelance app with Flutter
 finishing ui of authentication ( login, signup)
 
 ## Day 43
-Finishing 90% of the UI of app
+Finishing 90% of the UI of the app
+
+## Day 44
+Finishing Al UI of the Wedding app and wait the opinion of the CUSTOMER :)
