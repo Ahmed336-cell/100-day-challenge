@@ -175,7 +175,7 @@ Finishing Al UI of the Wedding app and wait for the opinion of the CUSTOMER :)
 <a href="https://github.com/Ahmed336-cell/bookly_app" target="_blank">link of repo</a> <br>
 finishing MVVM & BLoc (cubit) course <br>
 <h3>Certificate</h3>
-<img src="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/cert.jpg" alt="Certificate" width="500" height="600">
+<img src="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/cert.jpg" alt="Certificate">
 
 
 
