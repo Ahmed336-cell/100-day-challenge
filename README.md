@@ -169,3 +169,13 @@ Finishing 90% of the UI of the app
 
 ## Day 44
 Finishing Al UI of the Wedding app and wait the opinion of the CUSTOMER :)
+
+## Day 45
+finishing bookly app <br>
+<a href="https://github.com/Ahmed336-cell/bookly_app" target="_blank">link of repo</a> <br>
+finishing MVVM & BLoc (cubit) course <br>
+<h3>Certificate</h3>
+![UC-bb34aca3-9838-432f-9846-c4de7b6cd030](https://github.com/Ahmed336-cell/100-day-challenge/assets/65620946/05439346-327d-4e25-a5c3-4a21037f8560)
+
+
+
