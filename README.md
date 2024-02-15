@@ -178,6 +178,8 @@ finishing MVVM & BLoc (cubit) course <br>
 <img src="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/cert.jpg" alt="Certificate">
 
 
+## Day 46
+make logic of login and signup user in wedding app using cubit and firebase
 
 
 
