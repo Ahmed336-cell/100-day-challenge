@@ -184,4 +184,5 @@ make logic of login and signup user in wedding app using cubit and firebase
 ## Day 47
 finishing authentication 
 
-
+## Day 48
+Solve some errors in Authentication Signup as a photographer
