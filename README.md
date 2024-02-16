@@ -186,3 +186,5 @@ finishing authentication
 
 ## Day 48
 Solve some errors in Authentication Signup as a photographer
+## Day 49
+finishing Forget password
