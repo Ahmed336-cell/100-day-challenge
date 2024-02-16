@@ -181,5 +181,7 @@ finishing MVVM & BLoc (cubit) course <br>
 ## Day 46
 make logic of login and signup user in wedding app using cubit and firebase
 
+## Day 47
+finishing authentication 
 
 
