@@ -190,3 +190,6 @@ Solve some errors in Authentication Signup as a photographer
 finishing Forget password
 ## Day 50
 Solve 2 problems in leetcode
+
+## Day 51
+Solve 2 problems in DIV 4 in codeforeces
