@@ -188,3 +188,5 @@ finishing authentication
 Solve some errors in Authentication Signup as a photographer
 ## Day 49
 finishing Forget password
+## Day 50
+Solve 2 problems in leetcode
