@@ -168,7 +168,7 @@ finishing ui of authentication ( login, signup)
 Finishing 90% of the UI of the app
 
 ## Day 44
-Finishing Al UI of the Wedding app and wait for the opinion of the CUSTOMER :)
+Finishing Al UI of the Wedding app and waiting for the opinion of the CUSTOMER :)
 
 ## Day 45
 <h3>finishing bookly app</h3> <br>
@@ -193,3 +193,5 @@ Solve 2 problems in leetcode
 
 ## Day 51
 Solve 2 problems in DIV 4 in codeforeces
+## Day 52
+Solving assessment of Amazon internship
