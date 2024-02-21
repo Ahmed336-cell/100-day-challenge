@@ -195,3 +195,5 @@ Solve 2 problems in leetcode
 Solve 2 problems in DIV 4 in codeforeces
 ## Day 52
 Solving assessment of Amazon internship
+## Day 53
+continue jatropha project for google solution challenge
