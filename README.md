@@ -196,4 +196,9 @@ Solve 2 problems in DIV 4 in codeforeces
 ## Day 52
 Solving assessment of Amazon internship
 ## Day 53
-continue jatropha project for google solution challenge
+continue the Jatropha project for the Google Solution challenge
+
+## Day 54
+Update CV at my portfolio
+## Day 55
+finish some work and codes
