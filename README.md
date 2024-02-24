@@ -202,3 +202,8 @@ continue the Jatropha project for the Google Solution challenge
 Update CV at my portfolio
 ## Day 55
 finish some work and codes
+## Day 56
+start in the clean arch course 
+
+## Day 57
+work on idea that be project in univeristy
