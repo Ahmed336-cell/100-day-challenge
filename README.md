@@ -204,6 +204,9 @@ Update CV at my portfolio
 finish some work and codes
 ## Day 56
 start in the clean arch course 
-
+## Day 57
+Make a roadmap to flutter course
+## Day 58
+Choose an app idea to be a project in college
 ## Day 57
 work on idea that be project in univeristy
