@@ -209,7 +209,16 @@ Make a roadmap to flutter course
 ## Day 58
 Choose an app idea to be a project in college
 ## Day 57
-work on idea that be project in university
+work on idea that be project in the university
 
 ## Day 58
-start make UI of social media app like instagram
+start make UI of social media app like Instagram
+
+## Day 59 
+change the idea of the project :|
+
+## Day 60
+work on another idea and make the team
+
+
+
