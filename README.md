@@ -223,5 +223,8 @@ work on another idea and make the team
 ## Day 61
 solve problems in leetcode
 
+## Day 62
+start learning SQL
+
 
 
