@@ -229,4 +229,5 @@ start learning SQL
 ## Day 63 
 edit way of uploading image in Wedding app flutter
 
-
+## Day 64
+setup SQL in my pc and start with first code
