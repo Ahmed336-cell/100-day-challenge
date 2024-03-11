@@ -231,3 +231,24 @@ edit way of uploading image in Wedding app flutter
 
 ## Day 64
 setup SQL in my pc and start with first code
+
+## Day 65
+learn how to create table and database SQL
+
+## Day 66
+learn some concepts of network
+
+## Day 67
+learn how to select data from table in db SQL
+
+## Day 68 
+receiving email that pass filtration of cv in internship in flutter
+
+## Day 69
+add files of project
+
+## Day 70
+finishing home page of app
+
+## Day 71 
+Finishing all app
