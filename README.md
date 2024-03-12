@@ -209,10 +209,10 @@ Make a roadmap to flutter course
 ## Day 58
 Choose an app idea to be a project in college
 ## Day 57
-work on idea that be project in the university
+work on ideas that be project in the university
 
 ## Day 58
-start make UI of social media app like Instagram
+start making UI of social media apps like Instagram
 
 ## Day 59 
 change the idea of the project :|
@@ -227,10 +227,10 @@ solve problems in leetcode
 start learning SQL
 
 ## Day 63 
-edit way of uploading image in Wedding app flutter
+edit the way of uploading images in the Wedding app Flutter
 
 ## Day 64
-setup SQL in my pc and start with first code
+setup SQL in my PC and start with the first code
 
 ## Day 65
 learn how to create table and database SQL
@@ -239,16 +239,19 @@ learn how to create table and database SQL
 learn some concepts of network
 
 ## Day 67
-learn how to select data from table in db SQL
+learn how to select data from a table in db SQL
 
 ## Day 68 
-receiving email that pass filtration of cv in internship in flutter
+receiving an email that passes filtration of CV in an internship in Flutter
 
 ## Day 69
-add files of project
+add files of the project
 
 ## Day 70
-finishing home page of app
+finishing the home page of the app
 
 ## Day 71 
 Finishing all app
+
+## Day 72
+preparing for Flutter interview
