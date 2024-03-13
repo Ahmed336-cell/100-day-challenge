@@ -254,4 +254,9 @@ finishing the home page of the app
 Finishing all app
 
 ## Day 72
-preparing for Flutter interview
+preparing for the Flutter interview
+
+## Day 73
+solve the daily problem in leetcode (Find the Pivot Integer)
+<br>
+<a href="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/leetcode/2485.%20Find%20the%20Pivot%20Integer.cpp" >line of solution</a>
