@@ -260,3 +260,10 @@ preparing for the Flutter interview
 solve the daily problem in leetcode (Find the Pivot Integer)
 <br>
 <a href="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/leetcode/2485.%20Find%20the%20Pivot%20Integer.cpp" >line of solution</a>
+
+## Day 74
+solve the daily problem in leetcode 
+<br>
+## Day 75
+solve the daily problem in leetcode 
+<br>
