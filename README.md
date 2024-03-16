@@ -267,3 +267,6 @@ solve the daily problem in leetcode
 ## Day 75
 solve the daily problem in leetcode 
 <br>
+
+## Day 76
+make some edits in wedding app
