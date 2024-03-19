@@ -269,4 +269,13 @@ solve the daily problem in leetcode
 <br>
 
 ## Day 76
-make some edits in wedding app
+make some edits to the wedding app
+
+## Day 77
+start design of Mal3aby app for college
+<br>
+## Day 78
+solve the daily problem in leetcode 
+<br>
+## Day 79
+Continue make UI of Mal3aby app
