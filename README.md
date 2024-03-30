@@ -284,4 +284,8 @@ Continue to make UI of the Mal3aby app
 finish UI of Mal3aby App
 
 ## Day 81
-solve daily problem in leetcode
+solve the daily problem in leetcode
+
+## Day 82
+solve the daily problem in leetcode
+
