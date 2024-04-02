@@ -278,10 +278,10 @@ start design of Mal3aby app for college
 solve the daily problem in leetcode 
 <br>
 ## Day 79
-Continue to make UI of the Mal3aby app
+Continue to make the UI of the Mal3aby app
 
 ## Day 80
-finish UI of Mal3aby App
+finish UI of the Mal3aby App
 
 ## Day 81
 solve the daily problem in leetcode
@@ -294,3 +294,6 @@ Make interviews
 
 ## Day 84
 solve the daily problem in leetcode
+
+## Day 85
+15 days of solving in leetcode :)
