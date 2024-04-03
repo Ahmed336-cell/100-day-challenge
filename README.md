@@ -297,3 +297,6 @@ solve the daily problem in leetcode
 
 ## Day 85
 15 days of solving in leetcode :)
+
+## Day 86
+work on network project using cisco packet tracer
