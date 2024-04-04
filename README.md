@@ -300,3 +300,6 @@ solve the daily problem in leetcode
 
 ## Day 86
 work on network project using cisco packet tracer
+
+## Day 87
+work on wedding app that fetch data from firestore and display it
