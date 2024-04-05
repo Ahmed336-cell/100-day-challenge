@@ -298,8 +298,12 @@ solve the daily problem in leetcode
 ## Day 85
 15 days of solving in leetcode :)
 
+
 ## Day 86
 work on network project using cisco packet tracer
 
 ## Day 87
-work on wedding app that fetch data from firestore and display it
+work on a wedding app that fetches data from Firestore and display it
+
+## Day 88
+solve daily problem in leetcode + make some changes in app
