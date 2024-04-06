@@ -300,10 +300,14 @@ solve the daily problem in leetcode
 
 
 ## Day 86
-work on network project using cisco packet tracer
+work on network project using Cisco packet tracer
+
 
 ## Day 87
-work on a wedding app that fetches data from Firestore and display it
+work on a wedding app that fetches data from Firestore and displays it
 
 ## Day 88
 solve daily problem in leetcode + make some changes in app
+
+## Day 89
+submit the daily problem in leetcode 
