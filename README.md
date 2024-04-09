@@ -319,5 +319,5 @@ submit the daily problem in leetcode
 submit the daily problem in leetcode 
 
 ## Day 92
-work on a wedding app that upload multiple images of photographer in firebase  + solve daily problem in leetcode
+work on a wedding app that uploads multiple images of photographer in Firebase  + solve the daily problem in leetcode
 
