@@ -324,3 +324,9 @@ work on a wedding app that uploads multiple images of photographer in Firebase  
 ## Day 93
 submit the daily problem in leetcode 
 
+## Day 94
+submit the daily problem in leetcode 
+
+## Day 95 
+try to upload videos to firebase + submit the daily problem in leetcode + study for exams
+
