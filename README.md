@@ -336,7 +336,7 @@ get the first star in SQL at HACKERRANK + submit the daily problem in leetcode
 ## Day 97
 achieve a certificate at HackerRank (Software Engineer intern) + solving daily problem in leetcode
 <h3>Certificate</h3>
-<img src="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/cert.jpg" alt="Certificate">
+<iframe src="software_engineer_intern certificate (1).pdf" alt="Certificate">
 
 
 
