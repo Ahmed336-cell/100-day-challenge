@@ -331,5 +331,12 @@ submit the daily problem in leetcode
 try to upload videos to firebase + submit the daily problem in leetcode + study for exams
 
 ## Day 96
-get first star in SQL at HACKERRANK + submit the daily problem in leetcode
+get the first star in SQL at HACKERRANK + submit the daily problem in leetcode
+
+## Day 97
+achieve a certificate at HackerRank (Software Engineer intern) + solving daily problem in leetcode
+<h3>Certificate</h3>
+<img src="https://github.com/Ahmed336-cell/100-day-challenge/blob/main/cert.jpg" alt="Certificate">
+
+
 
