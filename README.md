@@ -343,4 +343,6 @@ achieve a certificate at HackerRank (Software Engineer intern) + solving daily p
 ## Day 98
 using DFS algorithm + Recursion to solve daily problem in leetcode
 
+## Day 99
+Solve some SQL challenges at HACKERANK + using DFS algorithm + Recursion to solve daily problem in leetcode
 
