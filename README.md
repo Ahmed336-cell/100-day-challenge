@@ -346,3 +346,7 @@ using DFS algorithm + Recursion to solve daily problem in leetcode
 ## Day 99
 Solve some SQL challenges at HACKERANK + using DFS algorithm + Recursion to solve daily problem in leetcode
 
+## Day 100
+Solving daily leetcode problem <br>
+Last day in this repo :( 
+
